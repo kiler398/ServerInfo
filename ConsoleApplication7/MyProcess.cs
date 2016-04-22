@@ -24,6 +24,8 @@ namespace ConsoleApplication7
         /// 执行路径
         /// </summary>
         public string ExecPath;
+
+
         /// <summary>
         /// 创建者
         /// </summary>
